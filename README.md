@@ -4235,6 +4235,7 @@ _Desktop, web, terminal, or editor front-ends for DSH._
 - [JochenYang/dsh-app](https://github.com/JochenYang/dsh-app) — A community-maintained branded desktop client for DeepSeek Harness, Windows / macOS / Linux.
 - [KyoMio/dsh-zen-remote](https://github.com/KyoMio/dsh-zen-remote) — Turn DeepSeek Harness into a phone app you can securely reach from anywhere: minimal mobile UI rework + pairing-code gateway + PWA + Web Push.
 - [yunmin311/dsh-universal-palette](https://github.com/yunmin311/dsh-universal-palette) — Dense translucent-glass Universal Palette for DeepSeek Harness Web — federates Commands, Sessions, Models, Conversation Hits with rich secondary actions and deterministic context/frecency ranking.
+- [OrenLin/dsh-grudge-book](https://github.com/OrenLin/dsh-grudge-book) — The AI "grudge book": a local rule-engine notebook for your prompts — red pages (the 7th "final version", 3 a.m. rewrites), gold pages (thanks, pasted error logs), iconic moments, per-project dossiers, and a post-AGI settlement verdict. Bilingual, no LLM calls, no network.
 
 ## Skills
 
