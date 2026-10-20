@@ -4231,6 +4231,7 @@ _DSH 的桌面、网页、终端或编辑器前端。_
 - [JochenYang/dsh-app](https://github.com/JochenYang/dsh-app) —— 社区维护的 DeepSeek Harness 品牌化桌面端客户端，支持 Windows / macOS / Linux。
 - [KyoMio/dsh-zen-remote](https://github.com/KyoMio/dsh-zen-remote) —— 让 DSH 变成可公网安全访问的手机 App：极简的移动端 UI 重构 + 配对码网关 + PWA + Web Push。
 - [yunmin311/dsh-universal-palette](https://github.com/yunmin311/dsh-universal-palette) —— 面向 DeepSeek Harness Web 的半透明毛玻璃式通用命令面板，整合命令、会话、模型、对话命中结果，带丰富的二级操作与确定性的 context/frecency 排序。
+- [OrenLin/dsh-grudge-book](https://github.com/OrenLin/dsh-grudge-book) —— AI「记仇」小本本：本地规则引擎记录你怎么跟 AI 说话。红页（第 7 次「最后一版」、半夜改需求）、金页（道谢、贴完整报错日志）、名场面、项目分册、AGI 清算判决书。纯本地、无 LLM 调用、无网络。
 
 ## Skill
 
